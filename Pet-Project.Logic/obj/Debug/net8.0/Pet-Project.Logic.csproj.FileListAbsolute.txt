@@ -1,0 +1,11 @@
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\bin\Debug\net8.0\Pet-Project.Logic.deps.json
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\bin\Debug\net8.0\Pet-Project.Logic.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\bin\Debug\net8.0\Pet-Project.Logic.pdb
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\Pet-Project.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\Pet-Project.Logic.AssemblyInfoInputs.cache
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\Pet-Project.Logic.AssemblyInfo.cs
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\Pet-Project.Logic.csproj.CoreCompileInputs.cache
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\Pet-Project.Logic.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\refint\Pet-Project.Logic.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\Pet-Project.Logic.pdb
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Logic\obj\Debug\net8.0\ref\Pet-Project.Logic.dll

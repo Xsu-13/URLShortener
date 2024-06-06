@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Application\\Pet-Project.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Application\\Pet-Project.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Application\\Pet-Project.Application.csproj",
+        "projectName": "Pet-Project.Application",
+        "projectPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Application\\Pet-Project.Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj": {
+                "projectPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj"
+              },
+              "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Persistence\\Pet-Project.Persistence.csproj": {
+                "projectPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Persistence\\Pet-Project.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj",
+        "projectName": "Pet-Project.Logic",
+        "projectPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Persistence\\Pet-Project.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Persistence\\Pet-Project.Persistence.csproj",
+        "projectName": "Pet-Project.Persistence",
+        "projectPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Persistence\\Pet-Project.Persistence.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj": {
+                "projectPath": "D:\\Fork\\ASP_NET\\Pet-Project\\Pet-Project\\Pet-Project.Logic\\Pet-Project.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

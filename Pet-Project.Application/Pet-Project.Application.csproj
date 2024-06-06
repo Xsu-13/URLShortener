@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Pet_Project.Application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pet-Project.Logic\Pet-Project.Logic.csproj" />
+    <ProjectReference Include="..\Pet-Project.Persistence\Pet-Project.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

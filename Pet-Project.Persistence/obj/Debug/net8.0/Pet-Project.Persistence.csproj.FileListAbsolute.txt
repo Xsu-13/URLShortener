@@ -1,0 +1,15 @@
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\bin\Debug\net8.0\Pet-Project.Persistence.deps.json
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\bin\Debug\net8.0\Pet-Project.Persistence.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\bin\Debug\net8.0\Pet-Project.Persistence.pdb
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\bin\Debug\net8.0\Pet-Project.Logic.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\bin\Debug\net8.0\Pet-Project.Logic.pdb
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.csproj.AssemblyReference.cache
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.AssemblyInfoInputs.cache
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.AssemblyInfo.cs
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.csproj.CoreCompileInputs.cache
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Proj.77937374.Up2Date
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\refint\Pet-Project.Persistence.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\Pet-Project.Persistence.pdb
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.Persistence\obj\Debug\net8.0\ref\Pet-Project.Persistence.dll

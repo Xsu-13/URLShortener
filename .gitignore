@@ -1,0 +1,6 @@
+﻿Pet-Project.WebApi/bin
+Pet-Project.Persistence/bin
+Pet-Project.Logic/bin
+Pet-Project.Infrastructure/bin
+Pet-Project.Application/bin
+.vs
