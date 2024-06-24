@@ -26,3 +26,16 @@ https://github.com/Xsu-13/URLShortener/assets/73441321/2f8c31a3-8842-4c50-91e2-a
 ### Frontend:
 - React: для создания интерактивного пользовательского интерфейса.
 - CSS: для стилизации компонентов.
+
+## Время отклика:
+
+### При создании короткой ссылки:
+![image](https://github.com/Xsu-13/URLShortener/assets/73441321/47626976-32e7-4328-84c6-4099c4efa9ec)
+
+### При первом обращении:
+![image](https://github.com/Xsu-13/URLShortener/assets/73441321/0e31c44b-cfc4-471a-b0ca-0c2c8853438c)
+
+## При последующих обращениях:
+![image](https://github.com/Xsu-13/URLShortener/assets/73441321/dce9c5bb-13c7-43c5-ae77-d8e032bde3ac)
+
+
