@@ -20,7 +20,7 @@ https://github.com/Xsu-13/URLShortener/assets/73441321/2f8c31a3-8842-4c50-91e2-a
 - ASP.NET Core: для построения API сервера.
 - Чистая архитектура (Clean Architecture), также известная как "Onion Architecture".
 - Entity Framework Core (EF): для взаимодействия с базой данных.
-- Postgresql: реляционная база данных для хранения данных о URL.
+- Postgresql: реляционная база данных для хранения данных о URL <br/> (ShortURL столбец проиндексирован для производительности).
 - Redis: система кеширования для ускорения доступа к данным.
 
 ### Frontend:
