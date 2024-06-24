@@ -84,6 +84,8 @@ namespace Pet_Project.Persistence.Repositories
                 .AsNoTracking()
                 .FirstOrDefaultAsync(x => x.ShortUrl == shortUrl) ?? throw new Exception();
 
+                    await _distributedCache.SetStringAsync(key, urlEntity.LongUrl, cancellationToken);
+
                     return _mapper.Map<GeneratingURL>(urlEntity);
                 }
 
