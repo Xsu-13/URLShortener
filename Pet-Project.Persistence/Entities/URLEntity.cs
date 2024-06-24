@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace Pet_Project.Persistence.Entities
 {
+
+    [Index(nameof(ShortUrl))]
     public class URLEntity
     {
         public Guid Id { get; set; }
