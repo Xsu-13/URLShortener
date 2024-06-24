@@ -1,6 +1,6 @@
 # URLShortener.omg
 
-**URLShortener.omg** - это удобный инструмент для сокращения длинных забавных URL-адресов 
+**URLShortener.omg** - это удобный инструмент для сокращения длинных забавных URL-адресов <br/> 
 с доменом *.omg* :flushed:, сделанный с использованием ASP.NET и React. Этот проект позволяет пользователям быстро создавать короткие ссылки, которые легко распространять и использовать.
 
 ## Демо
@@ -35,7 +35,7 @@ https://github.com/Xsu-13/URLShortener/assets/73441321/2f8c31a3-8842-4c50-91e2-a
 ### При первом обращении:
 ![image](https://github.com/Xsu-13/URLShortener/assets/73441321/0e31c44b-cfc4-471a-b0ca-0c2c8853438c)
 
-## При последующих обращениях:
+### При последующих обращениях:
 ![image](https://github.com/Xsu-13/URLShortener/assets/73441321/dce9c5bb-13c7-43c5-ae77-d8e032bde3ac)
 
 
