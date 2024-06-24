@@ -1,0 +1,90 @@
+body{
+  background-image: url(background2.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-top:200px;
+  text-align: center;
+  background-color: rgba(77, 104, 163, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.logo-text {
+  font-size: 36px;
+  font-weight: bold;
+  color: #005BFF;
+  margin-right: 10px;
+}
+
+.logo-title {
+  font-size: 24px;
+  color: #3fd2ff;
+}
+
+.description {
+  color: #ffffffd8;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.shorten-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shorten-form input[type="text"] {
+  width: 55%;
+  padding: 15px 10px;
+  border: 1px solid #ffffff5e;
+  border-radius: 5px;
+  font-size: 17px;
+  margin-right: 10px;
+  background-color: rgba(207, 204, 151, 0.1);
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.shorten-form input[type="text"]:hover {
+  background-color: rgba(69, 60, 190, 0.1);
+}
+
+.shorten-form input[type="text"]:focus {
+  background-color: rgba(40, 33, 126, 0.1);
+}
+
+.shorten-form button {
+  background-color: #3fd2ff;
+  color: #0049cf;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 20px;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.shorten-form button:hover {
+  background-color: #0049cf;
+  color: #3fd2ff;
+}
+
+.shorten-form button:active {
+  background-color: #00318b;
+  color: #3fd2ff;
+  transform: scale(95%);
+}
