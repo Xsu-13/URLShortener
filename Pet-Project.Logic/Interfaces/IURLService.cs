@@ -9,8 +9,10 @@ namespace Pet_Project.Logic.Interfaces
 {
     public  interface IURLService
     {
-        public Task<int> CreateURL(GeneratingURL url);
+        public Task<Guid> CreateURL(GeneratingURL url, CancellationToken cancellationToken);
 
-        public Task<GeneratingURL> GetURLById(int id);
+        public Task<GeneratingURL> GetURLById(Guid id);
+
+        public Task<GeneratingURL> GetURLByShortURL(string shortUrl, CancellationToken cancellationToken);
     }
 }

@@ -107,3 +107,11 @@ D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\ru\M
 D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Pet-Project.Application.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Pet-Project.Application.pdb
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Fork\ASP_NET\Pet-Project\Pet-Project\Pet-Project.WebApi\bin\Debug\net8.0\StackExchange.Redis.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pet-Project.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97bc5dee1450fc1a0be2f743a0337f3204aaf704")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pet-Project.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pet-Project.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
